@@ -86,15 +86,15 @@ a{
 }
 
 .info{
-    margin-top: 48px;
+    padding-top: 48px;
     background-color: #fff;
-   
+    padding-bottom: 178px;
 }
 
 .info-text-main{
     color: black;
     text-align: center;
-    padding-bottom: 48px;
+    padding-bottom: 38px;
 }
 
 .info-text{
@@ -103,15 +103,34 @@ a{
 }
 
 .card-img{
-    border: 2px solid #3882F6;
+    border: 4px solid #3882F6;
     border-radius: 12px;
     width: 200px;
     height: 200px;
     margin-bottom: 24px;
 }
+
 .info-cards{
     display: flex;
     gap: 20px;
 }
 
+
+.quote{
+    padding: 100px 0;
+    background-color: #E5E7EB;
+}
+
+blockquote{
+    font-size: 36px;
+    font-weight: 200;
+    color: #1F2937;
+}
+
+cite{
+    display: block;
+    color: #1F2937;
+    text-align: right;
+    font-weight: 600;
+}
 
