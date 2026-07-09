@@ -84,3 +84,34 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+.info{
+    margin-top: 48px;
+    background-color: #fff;
+   
+}
+
+.info-text-main{
+    color: black;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.info-text{
+    color: black;
+    text-align: center;
+}
+
+.card-img{
+    border: 2px solid #3882F6;
+    border-radius: 12px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 24px;
+}
+.info-cards{
+    display: flex;
+    gap: 20px;
+}
+
+
