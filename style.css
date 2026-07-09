@@ -134,3 +134,31 @@ cite{
     font-weight: 600;
 }
 
+.sign-up{
+    padding: 80px 0;
+}
+
+.container-sign-up{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #3882F6;
+    border-radius: 4px;
+    padding: 32px;
+}
+
+.sign-up-box{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.btn-secondary{
+    background-color: #3882F6;
+    color: white;
+    width: 98px;
+    height: 30px;
+    border-radius: 7px;
+}
+
+
+
